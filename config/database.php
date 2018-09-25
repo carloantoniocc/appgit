@@ -54,6 +54,8 @@ return [
             'engine' => null,
         ],
 
+        // database connections for test
+
         'pgsql' => [
             'driver' => 'pgsql',
             'host' => env('DB_HOST', '127.0.0.1'),
