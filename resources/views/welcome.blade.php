@@ -82,7 +82,9 @@
                     Laravel
                 </div>
                 <div class="title m-b-md">
+
                     nueva direccion a Laravel
+
                 </div>                
 
                 <div class="links">
