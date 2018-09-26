@@ -17,7 +17,7 @@
                 </div>
                 <div class="title m-b-md">
 
-                    nueva direccion a Laravel
+                    delete Laravel
 
                 </div>                
 
