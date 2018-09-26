@@ -17,7 +17,7 @@
                 </div>
                 <div class="title m-b-md">
 
-                    nueva direccion a Laravel
+                    este es edit con view en Laravel
 
                 </div>                
 
