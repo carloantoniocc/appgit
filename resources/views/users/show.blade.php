@@ -17,7 +17,8 @@
                 </div>
                 <div class="title m-b-md">
 
-                    delete Laravel
+                    es un view de Laravel
+
 
                 </div>                
 
